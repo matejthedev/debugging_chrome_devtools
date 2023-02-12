@@ -2,7 +2,7 @@
 
 The Chrome DevTools are a powerful tool that allows developers to diagnose and fix issues with their code. One of the most important features of the DevTools is the ability to use breakpoints, which let you pause the execution of your code so that you can inspect the state of your program at a specific moment in time.
 
-## Here's how you can use breakpoints in the Chrome DevTools to find and fix a bug in this code:
+## Here's how to use breakpoints in the Chrome DevTools to find and fix a bug in this code:
 
 1) Open the page in Google Chrome and right-click anywhere on the page. Select "Inspect" from the context menu to open the DevTools.
 
